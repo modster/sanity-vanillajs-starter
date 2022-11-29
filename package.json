@@ -1,7 +1,7 @@
 {
-  "name": "hello-sanity-vanilla-javascript-starter",
+  "name": "cms-sanity-nextjs",
   "version": "1.0.0",
-  "description": "No dependencies, sending content query with fetch",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
